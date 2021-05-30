@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\..\..\..\..\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb
+[Project2]
+ProjectPath=..\..\..\Raspberry-Pi-3-Altium-Template-master\RPI GPIO BOARD.PrjPcb
